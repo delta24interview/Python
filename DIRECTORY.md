@@ -363,6 +363,7 @@
 ## Financial
   * [Equated Monthly Installments](financial/equated_monthly_installments.py)
   * [Interest](financial/interest.py)
+  * [Present Value](financial/present_value.py)
   * [Price Plus Tax](financial/price_plus_tax.py)
 
 ## Fractals
@@ -448,6 +449,7 @@
 ## Greedy Methods
   * [Fractional Knapsack](greedy_methods/fractional_knapsack.py)
   * [Fractional Knapsack 2](greedy_methods/fractional_knapsack_2.py)
+  * [Minimum Waiting Time](greedy_methods/minimum_waiting_time.py)
   * [Optimal Merge Pattern](greedy_methods/optimal_merge_pattern.py)
 
 ## Hashes
