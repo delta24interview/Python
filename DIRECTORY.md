@@ -632,6 +632,7 @@
   * [Radians](maths/radians.py)
   * [Radix2 Fft](maths/radix2_fft.py)
   * [Relu](maths/relu.py)
+  * [Remove Digit](maths/remove_digit.py)
   * [Runge Kutta](maths/runge_kutta.py)
   * [Segmented Sieve](maths/segmented_sieve.py)
   * Series
@@ -1082,6 +1083,7 @@
 
 ## Sorts
   * [Bead Sort](sorts/bead_sort.py)
+  * [Binary Insertion Sort](sorts/binary_insertion_sort.py)
   * [Bitonic Sort](sorts/bitonic_sort.py)
   * [Bogo Sort](sorts/bogo_sort.py)
   * [Bubble Sort](sorts/bubble_sort.py)
@@ -1172,6 +1174,7 @@
   * [Reverse Words](strings/reverse_words.py)
   * [Snake Case To Camel Pascal Case](strings/snake_case_to_camel_pascal_case.py)
   * [Split](strings/split.py)
+  * [String Switch Case](strings/string_switch_case.py)
   * [Text Justification](strings/text_justification.py)
   * [Top K Frequent Words](strings/top_k_frequent_words.py)
   * [Upper](strings/upper.py)
